@@ -103,4 +103,5 @@ Renglón siguiente al comentario
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫](https://drive.google.com/file/d/1heJbw37ktEfpJM4GagvtVqhD-_kO9sDR/view?usp=sharing  "Código fuente de esta página") 
+[⚫](https://github.com/mistersoftware/Escribe-con-estilo-usando-Markdown/blob/master/05-variables-con-estilo-en-markdown.md "Repositorio de este articulo en GitHub")
+
