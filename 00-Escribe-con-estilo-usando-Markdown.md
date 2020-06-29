@@ -45,8 +45,10 @@ Como veras, aquí todos aprendemos de todos:
 ==»==
 ---
 
+## Markdown en Platzi
 
-**Markdown en Platzi: Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, y en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/)_
+
+**Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, y en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/)_
 
 * **Los comentarios se clasifican en aportes, preguntas y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
     * **Los aportes** son los comentarios de cada video o clase (no todas son en video), los cuales no son preguntas.
