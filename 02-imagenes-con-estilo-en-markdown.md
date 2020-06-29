@@ -73,4 +73,4 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur](https://img
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing  "Código fuente de esta página")
+[⚫](https://github.com/mistersoftware/Escribe-con-estilo-usando-Markdown/blob/master/02-imagenes-con-estilo-en-markdown.md "Repositorio de este articulo en GitHub")
