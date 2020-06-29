@@ -1,4 +1,4 @@
-06 🇪🇸 ✍️🔲 Botones en Markdown 👨‍🎨👩‍🎨
+06 🇪🇸 ✍️🔲 Botones con estilo en Markdown 👨‍🎨👩‍🎨
 
 
 _Anterior:_ ⏪ [_Variables en Markdown_](https://platzi.com/comunidad/variables-con-estilo-en-markdown) 🆎
