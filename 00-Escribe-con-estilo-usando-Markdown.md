@@ -4,9 +4,6 @@
 Las ideas recién nacidas son frágiles, y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **Aquí encontrarás los mejores atuendos para adornar tus ideas y darles la mejor apariencia con Markdown**, una forma rápida y efectiva de darle estilo a tus ideas para que resplandezcan y resalten en público, y si hay suerte, vuelvan a ti, diferentes, renovadas. 
 
 
-Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack") y es el lenguaje de marcado por defecto en la documentación de los proyectos que usan [Git-hub](https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub").  
-
-
 ==«==
 ---
 > _" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Antes de continuar, te recomiendo dirigirte a [StackEdit](https://stackedit.io/app#), allí encontrarás  un editor en línea de Markdown donde puedes practicar lo que veremos y, ya que estás allí, incluso puedes enlazarlo con tu cuenta de Google Drive y ya tendrás un ecosistema listo para ayudarte a publicar. Tambien puedes utilizar GitHub para editar tu publicaciones, simplemente debes guardarlas como archivos con extension.md sin embargo hay un par de etiquetas que no funcionan en GitHub como ya lo veremos mas adelante. "_
@@ -15,7 +12,7 @@ Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo](https:
 ---
 
 
-Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas, es posible que sus funcionalidades hayan sido extendidas o modificadas. Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. A continuación encuentras el índice de contenidos de esta serie que busca sacar el maximo provecho de Markdown tanto en Platzi como en GitHub.
+Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas, es posible que sus funcionalidades hayan sido extendidas o modificadas. Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack"), puedes usarlo en Platzi como veremos mas adelante y es el lenguaje de marcado por defecto en la documentación de los proyectos que usan [Git-hub](https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub").  
 
 
 ## Índice de contenidos
