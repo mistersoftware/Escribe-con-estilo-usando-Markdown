@@ -1,4 +1,4 @@
-01 🇪🇸 ✍️📖 Textos en Markdown 👨‍🎨👩‍🎨
+01 🇪🇸 ✍️📖 Textos con estilo en Markdown 👨‍🎨👩‍🎨
 
 _Anterior:_ ⏪ [_Escribe con estilo usando Markdown👨‍🎨👩‍🎨_](https://platzi.com/blog/escribe-con-estilo-usando-markdown "Escribe con estilo usando Markdown")
 
