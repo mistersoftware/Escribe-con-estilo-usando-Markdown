@@ -59,4 +59,5 @@ Markdown es un lugar muy serio, **pero eso puede cambiar** mediante el uso del s
 Hecho con el 💚 en el 2K20. 
 
 
-[⚫](https://drive.google.com/file/d/1FSoeIb_4eRUtmFtD6YHymS34DI3LUKEf/view?usp=sharing  "Código fuente de esta página") 
+[⚫](https://github.com/mistersoftware/Escribe-con-estilo-usando-Markdown/blob/master/07-colores-con-estilo-en-markdown.md "Repositorio de este articulo en GitHub")
+
