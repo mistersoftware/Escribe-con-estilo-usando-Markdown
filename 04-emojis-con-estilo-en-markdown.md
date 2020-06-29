@@ -1,4 +1,4 @@
-04 🇪🇸 ✍️🍕 Emojis en Markdown 👨‍🎨👩‍🎨
+04 🇪🇸 ✍️🍕 Emojis con estilo en Markdown 👨‍🎨👩‍🎨
 
 _Anterior:_ ⏪ [_Animaciones en Markdown_](https://platzi.com/comunidad/animaciones-con-estilo-en-markdown) 🎬
 
