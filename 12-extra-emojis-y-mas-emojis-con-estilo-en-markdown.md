@@ -323,7 +323,8 @@ Fuente:
 Hecho con el 💚 en el 2K20. 
 
 
-[⚫](https://drive.google.com/file/d/1EKwJnenzn95mYtGIFk6jSgj3EeFJaLUw/view?usp=sharing "Código fuente de esta página")
+[⚫](https://github.com/mistersoftware/Escribe-con-estilo-usando-Markdown/blob/master/12-extra-emojis-y-mas-emojis-con-estilo-en-markdown.md "Repositorio de este articulo en GitHub")
+
 
 
 
