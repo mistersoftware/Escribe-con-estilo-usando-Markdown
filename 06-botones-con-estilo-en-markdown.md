@@ -49,4 +49,5 @@ Una forma sencilla y llamativa de navegar entre tus documentos.
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫](https://drive.google.com/file/d/16SYIsk2oSoYrH5eM6JCFH6GXFh_AyEna/view?usp=sharing  "Código fuente de esta página") 
+[⚫](https://github.com/mistersoftware/Escribe-con-estilo-usando-Markdown/blob/master/06-botones-con-estilo-en-markdown.md "Repositorio de este articulo en GitHub")
+
