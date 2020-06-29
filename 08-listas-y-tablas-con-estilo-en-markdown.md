@@ -1,4 +1,4 @@
-08 🇪🇸 ✍️☑️ Listas y Tablas en Markdown 👨‍🎨👩‍🎨
+08 🇪🇸 ✍️☑️ Listas y Tablas con estilo en Markdown 👨‍🎨👩‍🎨
 
 
 _Anterior:_ ⏪ [_Colores en Markdown_](https://platzi.com/comunidad/colores-con-estilo-en-markdown) ️💚 
