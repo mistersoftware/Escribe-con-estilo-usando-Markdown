@@ -1,4 +1,4 @@
-02 🇪🇸 ✍️📷 Imágenes en Markdown 👨‍🎨👩‍🎨
+02 🇪🇸 ✍️📷 Imágenes con estilo en Markdown 👨‍🎨👩‍🎨
 
 
 _Anterior:_ ⏪ [_Textos en Markdown_](https://platzi.com/comunidad/textos-con-estilo-en-markdown)  📖
