@@ -84,5 +84,5 @@ Fuentes:
 Hecho con el 💚 en el 2K20. 
 
 
+[⚫](https://github.com/mistersoftware/Escribe-con-estilo-usando-Markdown/blob/master/11-bonus-formulas-matematicas-con-estilo-en-markdown.md "Repositorio de este articulo en GitHub")
 
-[⚫](https://drive.google.com/file/d/1vwxFkvm25qPFEfGTLwNJwssfHWeJoX-s/view?usp=sharing  "Código fuente de esta página") 
