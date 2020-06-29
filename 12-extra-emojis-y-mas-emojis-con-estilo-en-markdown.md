@@ -1,4 +1,5 @@
-12 🇪🇸 ✍️ Extra: emojis y más emojis en Markdown 👨‍🎨👩‍🎨
+12 🇪🇸 ✍️ Extra: emojis y más emojis con estilo en Markdown 👨‍🎨👩‍🎨
+
 
 
 |  | **Más usados** |  |
