@@ -94,4 +94,4 @@ Fuentes:
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫](https://drive.google.com/file/d/14XYLhP6wRvaxRXHe6W5zcT03HGUbVV6i/view?usp=sharing "Código fuente de esta página")
+[⚫](https://github.com/mistersoftware/Escribe-con-estilo-usando-Markdown/blob/master/00-Escribe-con-estilo-usando-Markdown.md "Repositorio de este articulo en GitHub")
