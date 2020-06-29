@@ -1,4 +1,4 @@
-11 🇪🇸 ✍️➗ Bonús: Fórmulas matemáticas en Markdown 👨‍🎨👩‍🎨
+11 🇪🇸 ✍️➗ Bonús: Fórmulas matemáticas con estilo en Markdown 👨‍🎨👩‍🎨
 
 
 _Anterior:_ ⏪ [_ASCII Art en Markdown_](https://platzi.com/comunidad/ascii-art-con-estilo-en-markdown) 🔣
