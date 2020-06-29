@@ -1,4 +1,4 @@
-05 🇪🇸 ✍️🆎 Variables en Markdown 👨‍🎨👩‍🎨
+05 🇪🇸 ✍️🆎 Variables con estilo en Markdown 👨‍🎨👩‍🎨
 
 
 _Anterior:_ ⏪ [_Emojis en Markdown_](https://platzi.com/comunidad/emojis-con-estilo-en-markdown) 🍕
