@@ -35,11 +35,10 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 
 Aprenderemos como controlar la visualización del documento; ==resaltando== palabras en **negrita** o _cursiva_, [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Código Fuente del artículo Imágenes")](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing), creando listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo y un par de trucos extra para traer [![url2](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Código Fuente del artículo Imágenes")]() a nuestras publicaciones y para finalizar, veremos como incluir expresiones matemáticas **y como insertar imágenes, animaciones y videos.** 
 
-
-
-Como veras, aquí todos aprendemos de todos:
 ==«==
 ---
+
+Como veras, aquí todos aprendemos de todos:
 
 ![Subir Imagen](https://s5.gifyu.com/images/subirImagen.gif)
 
@@ -47,9 +46,9 @@ Como veras, aquí todos aprendemos de todos:
 ---
 
 
-**Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi, _excepto en los marcadores, ni en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/)_, a continuación un breve resumen,**
+**Markdown en Platzi: Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, y en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/)_
 
-* **Los comentarios se clasifican en preguntas, aportes y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
+* **Los comentarios se clasifican en aportes, preguntas y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
     * **Los aportes** son los comentarios de cada video o clase (no todas son en video), los cuales no son preguntas.
   * **Las preguntas** se identifican automáticamente cuando utilizas los signos de interrogación o también pueden identificarse con una casilla de selección cuando estás escribiendo.
   * **Las respuestas** son los comentarios realizados a otros comentarios. _Cuando creas una discusión en el foro, puedes responder los comentarios realizados por otros, creando nuevos hilos para cada comentario._
