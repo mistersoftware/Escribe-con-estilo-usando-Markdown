@@ -33,12 +33,15 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 
 ## ¿Qué Aprenderemos?
 
-Aprenderemos como controlar la visualización del documento; ==resaltando== palabras en **negrita** o _cursiva_, [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Código Fuente del artículo Imágenes")](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing), creando listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo y un par de trucos extra para traer [![url2](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Código Fuente del artículo Imágenes")]() a nuestras publicaciones y para finalizar, veremos como incluir expresiones matemáticas **y obviamente como insertar imágenes, animaciones y videos.** 
+Aprenderemos como controlar la visualización del documento; ==resaltando== palabras en **negrita** o _cursiva_, [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Código Fuente del artículo Imágenes")](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing), creando listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo y un par de trucos extra para traer [![url2](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Código Fuente del artículo Imágenes")]() a nuestras publicaciones y para finalizar, veremos como incluir expresiones matemáticas **y como insertar imágenes, animaciones y videos.** 
 
+
+
+Como veras, aquí todos aprendemos de todos:
 ==«==
 ---
 
-@[vimeo](427943407|https://vimeo.com/427943407/) 
+![Subir Imagen](https://s5.gifyu.com/images/subirImagen.gif)
 
 ==»==
 ---
