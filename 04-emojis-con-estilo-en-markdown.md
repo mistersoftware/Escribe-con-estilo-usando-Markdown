@@ -45,4 +45,4 @@ Para incluir un emoji **siempre podrás copiar y pegar** el emoji mismo de la ta
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫](https://drive.google.com/file/d/1psvRfh8PveuIf1bKTzFU7kcOrmPlSCNR/view?usp=sharing  "Código fuente de esta página") 
+[⚫](https://github.com/mistersoftware/Escribe-con-estilo-usando-Markdown/blob/master/04-emojis-con-estilo-en-markdown.md "Repositorio de este articulo en GitHub")
