@@ -159,4 +159,5 @@ Las tablas pueden tener tantas columnas y filas como sea necesario. **Las column
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫](https://drive.google.com/file/d/1O5locaGJ5BhGzhlsSEPB3glE-yX2Z96i/view?usp=sharing  "Código fuente de esta página") 
+[⚫](https://github.com/mistersoftware/Escribe-con-estilo-usando-Markdown/blob/master/08-listas-y-tablas-con-estilo-en-markdown.md "Repositorio de este articulo en GitHub")
+
