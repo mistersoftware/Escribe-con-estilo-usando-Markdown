@@ -21,17 +21,17 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 ## Índice de contenidos
 
 
->1. 📖 [Textos](https://platzi.com/comunidad/textos-en-markdown/ "Textos en Markdown") 
->1. 📷 [Imágenes](https://platzi.com/comunidad/imagenes-en-markdown/ "Imágenes en Markdown") 
->1. 🎬 [Animaciones](https://platzi.com/comunidad/animaciones-en-markdown/ "Animaciones en Markdown") 
->1. 🍕 [Emojis](https://platzi.com/comunidad/emojis-en-markdown/ "Emojis en Markdown") 
->1. 🆎 [Variables](https://platzi.com/comunidad/variables-en-markdown/ "Variables en Markdown") 
->1. 🔲 [Botones](https://platzi.com/comunidad/botones-en-markdown/ "Botones en Markdown") 
->1. 🌈 [Colores](https://platzi.com/comunidad/colores-en-markdown/ "Colores en Markdown") 
->1. ☑️ [Listas y Tablas](https://platzi.com/comunidad/listas-y-tablas-en-markdown/ "Listas y Tablas en Markdown") 
->1. 📺 [Videos de Youtube y Vimeo](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-en-markdown/ "Videos de Youtube y Vimeo en Markdown") 
->1. 🔣 [ASCII Art](https://platzi.com/comunidad/ascii-art-en-markdown/ "ASCII Art en Markdown") 
->1. ➗ [Bonus: Fórmulas matemáticas](https://platzi.com/comunidad/bonus-formulas-matematicas-en-markdown "Bonus: Fórmulas matemáticas en Markdown") 
+>1. 📖 [Textos](https://platzi.com/comunidad/textos-con-estilo-en-markdown/ "Textos en Markdown") 
+>1. 📷 [Imágenes](https://platzi.com/comunidad/imagenes-con-estilo-en-markdown/ "Imágenes en Markdown") 
+>1. 🎬 [Animaciones](https://platzi.com/comunidad/animaciones-con-estilo-en-markdown/ "Animaciones en Markdown") 
+>1. 🍕 [Emojis](https://platzi.com/comunidad/emojis-con-estilo-en-markdown/ "Emojis en Markdown") 
+>1. 🆎 [Variables](https://platzi.com/comunidad/variables-con-estilo-en-markdown/ "Variables en Markdown") 
+>1. 🔲 [Botones](https://platzi.com/comunidad/botones-con-estilo-en-markdown/ "Botones en Markdown") 
+>1. 🌈 [Colores](https://platzi.com/comunidad/colores-con-estilo-en-markdown/ "Colores en Markdown") 
+>1. ☑️ [Listas y Tablas](https://platzi.com/comunidad/listas-y-tablas-con-estilo-en-markdown/ "Listas y Tablas en Markdown") 
+>1. 📺 [Videos de Youtube y Vimeo](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-con-estilo-en-markdown/ "Videos de Youtube y Vimeo en Markdown") 
+>1. 🔣 [ASCII Art](https://platzi.com/comunidad/ascii-art-con-estilo-en-markdown/ "ASCII Art en Markdown") 
+>1. ➗ [Bonus: Fórmulas matemáticas](https://platzi.com/comunidad/bonus-formulas-matematicas-con-estilo-en-markdown "Bonus: Fórmulas matemáticas en Markdown") 
 
 
 ## ¿Qué Aprenderemos?
@@ -68,7 +68,7 @@ Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo
 
 **_Continúa tu aprendizaje con:_**
 
-* ⏩ [_Textos en Markdown_](https://platzi.com/comunidad/textos-en-markdown) 📖
+* ⏩ [_Textos en Markdown_](https://platzi.com/comunidad/textos-con-estilo-en-markdown) 📖
 
 
 ==»==
