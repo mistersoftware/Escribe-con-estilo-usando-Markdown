@@ -1,4 +1,4 @@
-07 🇪🇸 ✍️🌈 Colores en Markdown 👨‍🎨👩‍🎨
+07 🇪🇸 ✍️🌈 Colores con estilo en Markdown 👨‍🎨👩‍🎨
 
 
 _Anterior:_ ⏪ [_Botones en Markdown_](https://platzi.com/comunidad/botones-con-estilo-en-markdown) 🔲
