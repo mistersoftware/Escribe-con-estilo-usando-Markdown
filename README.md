@@ -1,9 +1,7 @@
-# Título (lee el source code del markdown para ver los comentarios)
-
 Autores:
  - @mistersoftware
 
-## 1 TL;DR
+## 1 Escribe con estilo usando Markdown
 
 <!--
 párrafo corto que explica qué estas proponiendo
