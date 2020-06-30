@@ -8,6 +8,7 @@ Autores:
 <!--
 párrafo corto que explica qué estas proponiendo
 -->
+Esta es una serie de plantillas que te permiten sacar el maximo provecho de Markdown.
 
 ## 2 Motivación
 
@@ -15,6 +16,8 @@ párrafo corto que explica qué estas proponiendo
 ¿qué motiva esta decisión y por qué es importante?
 el propósito de esta sección es articular de una manera sencilla el valor de la decision que vamos a tomar
 -->
+Mi motivación es aportar un granito de arena para que los estudiantes en Platzi se empoderen de las herramientas de participación con las que cuentan, y puedan asi sacar el maximo provecho de su experiencia en la comunidad.
+
 
 ## 3 Propuesta de implementación
 
@@ -31,6 +34,8 @@ El proposito de esta sección se resume en:
 "Esta es la dirección en la que nos voy a llevar, alguién ve huecos en mi propuesta o tiene comentarios sobre cómo mejorarla?
 
  -->
+ 
+ Se han subido 13 articulos a los foros de la comunidad de los cuales, uno ha sido elegido por Platzi (el indice) y este sera promocionado como un blog oficial de la plataforma. 
 
 ## 4 Métricas
 
@@ -38,6 +43,7 @@ El proposito de esta sección se resume en:
 Que métricas debemos vamos a instrumentar, o monitorear para observar las implicaciónes de esta decisiòn?
 Por ejemplo, cuando interactuamos con un sistema externo que tipo de latencia esperariamos o si agregamos una tabla nueva que tan rápido se llenaría?
 -->
+A definir por Platzi.
 
 ## 5 Riesgos e inconvenientes
 
@@ -45,12 +51,15 @@ Por ejemplo, cuando interactuamos con un sistema externo que tipo de latencia es
 ¿Hay razones por las que no deberiamos hacer esto?
 ¿Qué riesgos estamos tomando? Por ejemplo, no tenemos experiencia con esta tecnología nueva o no entendemos la escala aún.
 -->
+El principal inconveniente en la elaboración de la guía ha sido la inconsistencia del comportamiento de Pulse Editor. Tambien ofrece un reto el no poder editar o eliminar las publicaciones.
+
 
 ## 6 Alternativas
 
 <!--
 ¿Hay otras formas de resolver éste problema?
 -->
+Siempre sera posible publicar en un blog externo e incluir el link, pero de esa forma se rompe la experiencia de usuario al sacarlo de la plataforma. Por eso me parecio tan importante encontrar mecanismos para incrustar los videos.
 
 ## 7 Impacto potencial y dependencias
 
@@ -61,20 +70,27 @@ Por ejemplo, cuando interactuamos con un sistema externo que tipo de latencia es
 
   Aquí buscamos ser concientes del ambiente en el que operamos y generar empatía hacia otros que pueden verse afectados por nuestra decisión.
  -->
-
+El mayor impacto solo podra verse en el tiempo, en la medida que las personas comiencen a realizar aportes mas completos y estructurados, sin embargo no se puede asumir que tal cambio se deba a la Guía.
 
 ## 8 Preguntas sin resolver
 
 <!--
 ¿ Qué preguntas no hemos resuelto?
 -->
+¿Que deberia ocurrir para que las publicaciones se vean exactamente igual antes y despues de publicadas? 
+¿Es posible habilitar las etiquetas de encabezados diferentes a H2?
+¿Navegacion interna con div id?
+¿Habilitaran el artibuto _self en los enlaces?
 
 ## 9 Conclusión
 
+Han pasado aproximadamente 20 dias desde el primer intento de realizar la guía. En los diferentes intentos he podido notar que el impacto ha sido positivo en la comunidad.
+
+
+<!--
 
 ## 10 El proceso (elimina esta sección)
 
-<!--
 Al escribir un RFC, estas incluyendo al equipo en la dirección que estas tomando. En muchos casos puede haber multiples soluciones, y tambien opiniones diferentes sobre como atacar un problema. Es posible que en el futuro esta propuesta no sea la mejor solución posible, pero aprenderemos de ella.
 
 Como proponente, estas tomando responsabilidad sobre la dirección que quieres tomar y con este documento buscas que tus otros miembros de nuestro equipo contribuyan con sus comentarios acerca de tu idea, pero ultimamente esta decision es tuya y te apoyamos.
@@ -94,7 +110,7 @@ Este documento no es
  - la representación actual de nuestros sistemas o procesos
  -
 
--->
+
 
 - [ ] Copia este template
 - [ ] Bosqueja el documento, piensa que es un wireframe en prosa
@@ -107,6 +123,7 @@ Este documento no es
 - [ ] Hazle merge con dos +1
 
 
+
 ### Recomendaciones
 
 - Utiliza la etiqueta [WIP] si aún estas refinando detalles
@@ -115,3 +132,5 @@ Este documento no es
 - Si tienes dudas, pídele ayuda a tu manager o lider de tecnología
 - Es tu decisión
 - Ten en cuenta la prioridad de las propuestas que estas haciendo, los RFC no son documentos para proponer rearquitecturas o proyectos "cool" que no se alinean con los objetivos a corto plazo de la empresa
+
+-->
