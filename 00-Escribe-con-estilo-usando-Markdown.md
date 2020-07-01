@@ -53,7 +53,7 @@ Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo
 >1. 📷 [Integrar imágenes en tus comentarios o tutoriales](https://platzi.com/comunidad/imagenes-con-estilo-en-markdown/ "Imágenes en Markdown") 
 >1. 🎬 [Dale vida y movimiento a tus aportes con animaciones](https://platzi.com/comunidad/animaciones-con-estilo-en-markdown/ "Animaciones en Markdown") 
 >1. 🍕 [Expresate con Emojis](https://platzi.com/comunidad/emojis-con-estilo-en-markdown/ "Emojis en Markdown") 
->1. 🆎 [_"Don´t repeat yourself"_ Agiliza tu escritura con variables](https://platzi.com/comunidad/variables-con-estilo-en-markdown/ "Variables en Markdown") 
+>1. 🆎 [Agiliza tu escritura con variables _"Don´t repeat yourself"_ ](https://platzi.com/comunidad/variables-con-estilo-en-markdown/ "Variables en Markdown") 
 >1. 🔲 [Facilita la navegación de tus lectores con botones](https://platzi.com/comunidad/botones-con-estilo-en-markdown/ "Botones en Markdown") 
 >1. 🌈 [Un truco para darle alegria y color a tus aportes](https://platzi.com/comunidad/colores-con-estilo-en-markdown/ "Colores en Markdown") 
 >1. ☑️ [Listas y Tablas tan facil como nunca sera posible en html](https://platzi.com/comunidad/listas-y-tablas-con-estilo-en-markdown/ "Listas y Tablas en Markdown") 
