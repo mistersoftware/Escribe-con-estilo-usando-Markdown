@@ -31,7 +31,7 @@ Aquí un breve adelanto:
 ## Markdown en Platzi
 
 
-**Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, y en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/)_
+**Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, el chat de las transmisiones en vivo y en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/)_
 
 * **Los comentarios se clasifican en aportes, preguntas y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
     * **Los aportes** son los comentarios de cada video o clase (no todas son en video), los cuales no son preguntas.
@@ -49,28 +49,17 @@ Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo
 ## Índice de contenidos
 
 
->1. 📖 [Textos:
- Citación, enlace, código y formato de Texto para mejorar tus aportes](https://platzi.com/comunidad/textos-con-estilo-en-markdown/ "Textos en Markdown") 
->1. 📷 [Imagénes:
- Como integrar imágenes en tus comentarios o Tutoriales](https://platzi.com/comunidad/imagenes-con-estilo-en-markdown/ "Imágenes en Markdown") 
->1. 🎬 [Animaciones:
- Dale vida a tus aportes con animaciones](https://platzi.com/comunidad/animaciones-con-estilo-en-markdown/ "Animaciones en Markdown") 
->1. 🍕 [Emojis:
- Como insertar Emojis](https://platzi.com/comunidad/emojis-con-estilo-en-markdown/ "Emojis en Markdown") 
->1. 🆎 [Variables:
- Como usar espacios de memoria para agilizar tu escritura](https://platzi.com/comunidad/variables-con-estilo-en-markdown/ "Variables en Markdown") 
->1. 🔲 [Botones:
- enlaza otros documentos desde tu publicación](https://platzi.com/comunidad/botones-con-estilo-en-markdown/ "Botones en Markdown") 
->1. 🌈 [Colores:
- un truco para darle alegria a tus aportes](https://platzi.com/comunidad/colores-con-estilo-en-markdown/ "Colores en Markdown") 
->1. ☑️ [Listas y Tablas:
- una forma mucho mas sencilla que en html](https://platzi.com/comunidad/listas-y-tablas-con-estilo-en-markdown/ "Listas y Tablas en Markdown") 
->1. 📺 [Videos de Youtube y Vimeo:
- Incrusta videos en tus aportes en Platzi y una estrategía para incluirlos en publicaciones en GitHub](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-con-estilo-en-markdown/ "Videos de Youtube y Vimeo en Markdown") 
->1. 🔣 [ASCII Art:
- util cuando quieres hacer branding en la cabezera de tu codigo](https://platzi.com/comunidad/ascii-art-con-estilo-en-markdown/ "ASCII Art en Markdown") 
->1. ➗ [Bonus:
- Inserta fórmulas matemáticas creadas en laTex](https://platzi.com/comunidad/bonus-formulas-matematicas-con-estilo-en-markdown "Bonus: Fórmulas matemáticas en Markdown") 
+>1. 📖 [Formatos de texto, Citas, enlaces y código para mejorar tus aportes](https://platzi.com/comunidad/textos-con-estilo-en-markdown/ "Textos en Markdown") 
+>1. 📷 [Integrar imágenes en tus comentarios o tutoriales](https://platzi.com/comunidad/imagenes-con-estilo-en-markdown/ "Imágenes en Markdown") 
+>1. 🎬 [Dale vida y movimiento a tus aportes con animaciones](https://platzi.com/comunidad/animaciones-con-estilo-en-markdown/ "Animaciones en Markdown") 
+>1. 🍕 [Expresate con Emojis](https://platzi.com/comunidad/emojis-con-estilo-en-markdown/ "Emojis en Markdown") 
+>1. 🆎 [_"Don´t repeat yourself"_ Agiliza tu escritura con variables](https://platzi.com/comunidad/variables-con-estilo-en-markdown/ "Variables en Markdown") 
+>1. 🔲 [Facilita la navegación de tus lectores con botones](https://platzi.com/comunidad/botones-con-estilo-en-markdown/ "Botones en Markdown") 
+>1. 🌈 [Un truco para darle alegria y color a tus aportes](https://platzi.com/comunidad/colores-con-estilo-en-markdown/ "Colores en Markdown") 
+>1. ☑️ [Listas y Tablas tan facil como nunca sera posible en html](https://platzi.com/comunidad/listas-y-tablas-con-estilo-en-markdown/ "Listas y Tablas en Markdown") 
+>1. 📺 [Incrusta videos en tus aportes en Platzi y una estrategía para incluirlos en publicaciones en GitHub](https://platzi.com/comunidad/videos-de-youtube-y-vimeo-con-estilo-en-markdown/ "Videos de Youtube y Vimeo en Markdown") 
+>1. 🔣 [ASCII Art: branding en la cabezera de tu codigo](https://platzi.com/comunidad/ascii-art-con-estilo-en-markdown/ "ASCII Art en Markdown") 
+>1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex](https://platzi.com/comunidad/bonus-formulas-matematicas-con-estilo-en-markdown "Bonus: Fórmulas matemáticas en Markdown") 
 
 
 
@@ -82,7 +71,7 @@ Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo
 
 **_Continúa tu aprendizaje con:_**
 
-* ⏩ [_Citación, enlace, código y formato de Texto para mejorar tus aportes en Platzi_](https://platzi.com/comunidad/textos-con-estilo-en-markdown) 📖
+* ⏩ [_Formatos de texto, Citas, enlaces y código para mejorar tus aportes_](https://platzi.com/comunidad/textos-con-estilo-en-markdown) 📖
 
 
 ==»==
