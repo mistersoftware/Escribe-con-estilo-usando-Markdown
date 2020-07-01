@@ -18,7 +18,7 @@ _Anterior:_ ⏪ [_Textos en Markdown_](https://platzi.com/comunidad/textos-con-e
 
 ## 📷 Imágenes
 
-Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur](https://imgur.com) e incrustarla, como se muestra a continuación: 
+Puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur](https://imgur.com "el servicio gratuito de imágenes de reddit") e incrustarla, como se muestra a continuación: 
 
 ==«==
 ---
@@ -55,8 +55,7 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur](https://img
 ---
 
 
-[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack")[![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)](https://platzi.com/clases/escritura-online/ "Curso de Escritura Online")[![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender
-
+[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack")[![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)](https://platzi.com/clases/escritura-online/ "Curso de Escritura Online")[![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
 
 ==«==
 ---
