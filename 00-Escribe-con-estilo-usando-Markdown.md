@@ -18,6 +18,33 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 
 Aprenderemos como controlar la visualización del documento; escribir en _italico_, ==resaltando== palabras en **negrita**, insertando [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Código Fuente del artículo Imágenes")](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imagenes. También se incluyen un par de trucos extra para traer [![url2](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Código Fuente del artículo Imágenes")]() a nuestras publicaciones y para finalizar, veremos como crear publicaciones con expresiones matemáticas **y obviamente no podria faltar, veremos como insertar imágenes, animaciones y videos.** 
 
+==«==
+---
+
+Como veras, aquí todos aprendemos de todos:
+
+![Subir Imagen](https://s5.gifyu.com/images/subirImagen.gif)
+
+==»==
+---
+
+## Markdown en Platzi
+
+
+**Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, y en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/)_
+
+* **Los comentarios se clasifican en aportes, preguntas y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
+    * **Los aportes** son los comentarios de cada video o clase (no todas son en video), los cuales no son preguntas.
+  * **Las preguntas** se identifican automáticamente cuando utilizas los signos de interrogación o también pueden identificarse con una casilla de selección cuando estás escribiendo.
+  * **Las respuestas** son los comentarios realizados a otros comentarios. _Cuando creas una discusión en el foro, puedes responder los comentarios realizados por otros, creando nuevos hilos para cada comentario._
+* **Los tutoriales** son los aportes generales de cada curso.
+* **Iniciar discusiones** en el foro: estas publicaciones se enlazan a cada categoría del foro.
+* **Mensajes directos** pueden ser enviados entre estudiantes que han decidido no poner en privado su perfil.
+* También puedes participar en el **Blog Oficial** enviando un correo a team@platzi.com donde ellos te indicaran los pasos a seguir.
+
+
+Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo. 
+
 
 ## Índice de contenidos
 
@@ -46,32 +73,7 @@ Aprenderemos como controlar la visualización del documento; escribir en _italic
  Inserta fórmulas matemáticas creadas en laTex](https://platzi.com/comunidad/bonus-formulas-matematicas-con-estilo-en-markdown "Bonus: Fórmulas matemáticas en Markdown") 
 
 
-==«==
----
 
-Como veras, aquí todos aprendemos de todos:
-
-![Subir Imagen](https://s5.gifyu.com/images/subirImagen.gif)
-
-==»==
----
-
-## Markdown en Platzi
-
-
-**Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, y en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/)_
-
-* **Los comentarios se clasifican en aportes, preguntas y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
-    * **Los aportes** son los comentarios de cada video o clase (no todas son en video), los cuales no son preguntas.
-  * **Las preguntas** se identifican automáticamente cuando utilizas los signos de interrogación o también pueden identificarse con una casilla de selección cuando estás escribiendo.
-  * **Las respuestas** son los comentarios realizados a otros comentarios. _Cuando creas una discusión en el foro, puedes responder los comentarios realizados por otros, creando nuevos hilos para cada comentario._
-* **Los tutoriales** son los aportes generales de cada curso.
-* **Iniciar discusiones** en el foro: estas publicaciones se enlazan a cada categoría del foro.
-* **Mensajes directos** pueden ser enviados entre estudiantes que han decidido no poner en privado su perfil.
-* También puedes participar en el **Blog Oficial** enviando un correo a team@platzi.com donde ellos te indicaran los pasos a seguir.
-
-
-Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo. 
 
 ==«==
 ---
