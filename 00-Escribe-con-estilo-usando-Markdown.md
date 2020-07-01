@@ -21,9 +21,9 @@ Aprenderemos como controlar la visualización del documento; escribir en _italic
 ==«==
 ---
 
-Como veras, aquí todos aprendemos de todos:
+Aquí un breve adelanto:
 
-![Subir Imagen](https://s5.gifyu.com/images/subirImagen.gif)
+![Subir Imagen](https://i.imgur.com/XXBeF2X.gif)
 
 ==»==
 ---
