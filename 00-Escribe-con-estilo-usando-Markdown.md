@@ -14,12 +14,16 @@ Las ideas recién nacidas son frágiles, y expuestas de la forma incorrecta en e
 
 Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas, es posible que sus funcionalidades hayan sido extendidas o modificadas. Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack"), puedes usarlo en Platzi como veremos mas adelante y es el lenguaje de marcado por defecto en la documentación de los proyectos que usan [Git-hub](https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub").  
 
+## ¿Qué Aprenderemos?
+
+Aprenderemos como controlar la visualización del documento; escribir en _italico_, ==resaltando== palabras en **negrita**, insertando [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Código Fuente del artículo Imágenes")](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imagenes. También se incluyen un par de trucos extra para traer [![url2](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Código Fuente del artículo Imágenes")]() a nuestras publicaciones y para finalizar, veremos como crear publicaciones con expresiones matemáticas **y obviamente no podria faltar, veremos como insertar imágenes, animaciones y videos.** 
+
 
 ## Índice de contenidos
 
 
->1. 📖 [Textos](https://platzi.com/comunidad/textos-con-estilo-en-markdown/ "Textos en Markdown") 
->1. 📷 [Imágenes](https://platzi.com/comunidad/imagenes-con-estilo-en-markdown/ "Imágenes en Markdown") 
+>1. 📖 [Citación, enlace, código y formato de Texto para mejorar tus aportes en Platzi](https://platzi.com/comunidad/textos-con-estilo-en-markdown/ "Textos en Markdown") 
+>1. 📷 [Como integrar imágenes en tus comentarios o Tutoriales en Platzi](https://platzi.com/comunidad/imagenes-con-estilo-en-markdown/ "Imágenes en Markdown") 
 >1. 🎬 [Animaciones](https://platzi.com/comunidad/animaciones-con-estilo-en-markdown/ "Animaciones en Markdown") 
 >1. 🍕 [Emojis](https://platzi.com/comunidad/emojis-con-estilo-en-markdown/ "Emojis en Markdown") 
 >1. 🆎 [Variables](https://platzi.com/comunidad/variables-con-estilo-en-markdown/ "Variables en Markdown") 
@@ -30,10 +34,6 @@ Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad
 >1. 🔣 [ASCII Art](https://platzi.com/comunidad/ascii-art-con-estilo-en-markdown/ "ASCII Art en Markdown") 
 >1. ➗ [Bonus: Fórmulas matemáticas](https://platzi.com/comunidad/bonus-formulas-matematicas-con-estilo-en-markdown "Bonus: Fórmulas matemáticas en Markdown") 
 
-
-## ¿Qué Aprenderemos?
-
-Aprenderemos como controlar la visualización del documento; ==resaltando== palabras en **negrita** o _cursiva_, [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Código Fuente del artículo Imágenes")](https://drive.google.com/file/d/1x6TACRmABiGQdZbztIdMi73wMINwOta5/view?usp=sharing), creando listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo y un par de trucos extra para traer [![url2](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Código Fuente del artículo Imágenes")]() a nuestras publicaciones y para finalizar, veremos como incluir expresiones matemáticas **y como insertar imágenes, animaciones y videos.** 
 
 ==«==
 ---
@@ -69,7 +69,7 @@ Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo
 
 **_Continúa tu aprendizaje con:_**
 
-* ⏩ [_Textos en Markdown_](https://platzi.com/comunidad/textos-con-estilo-en-markdown) 📖
+* ⏩ [_Citación, enlace, código y formato de Texto para mejorar tus aportes en Platzi_](https://platzi.com/comunidad/textos-con-estilo-en-markdown) 📖
 
 
 ==»==
