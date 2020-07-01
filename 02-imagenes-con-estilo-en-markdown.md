@@ -35,12 +35,12 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur](https://img
 ---
 >Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
 >
-> [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "Yo ni le pregunte si podia incluirla aquí pero como la idea es construir sobre el conocimiento ya existente y no inventar la rueda todos los dias aquí esta - ve y dejale un like - y uno a mi también que tu dedo no se va a partir 😆 ")._
+> [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "La idea es construir sobre el conocimiento ya existente y no inventar la rueda todos los dias ")._
 
 ==»==
 ---
   
- ![Data](https://s5.gifyu.com/images/subirImagen.gif)
+ ![ubir-vistoporjuan](https://i.imgur.com/W0D6elt.gif)
 
 
 ## Imágenes con enlace
@@ -55,7 +55,7 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur](https://img
 ---
 
 
-[![Slack BadgeBadge Slack](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack")[![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)](https://platzi.com/clases/escritura-online/ "Curso de Escritura Online")[![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
+[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack")[![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)](https://platzi.com/clases/escritura-online/ "Curso de Escritura Online")[![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender
 
 
 ==«==
